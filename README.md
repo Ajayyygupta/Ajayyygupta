@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 👨‍💻 Java Full Stack Developer | Turning ideas into scalable, real-world web applications  <br><br>🔭 Currently building dynamic, production-ready apps using Spring Boot & clean MVC architecture  <br>🤝 Always open to collaborating on innovative backend & full-stack projects  <br>🆘 Exploring advanced system design and real-world deployment strategies  <br>🌱 Continuously leveling up with Microservices, REST API optimization & Spring Security  <br>💬 Let’s talk about Java, JDBC, Servlets, JSP, Spring Boot, Hibernate & MySQL  <br>⚡ Fun fact: When I’m not coding, I capture stories through photography & create visuals with video editing
+🚀 👨‍💻 Java Full Stack Developer | Turning ideas into scalable, real-world web applications  <br><br>🔭 Currently building dynamic, production-ready apps using Spring Boot & clean MVC architecture  <br>🤝 Always open to collaborating on innovative backend & full-stack projects  <br>🌱 Continuously leveling up with Microservices, REST API optimization & Spring Security  <br>💬 Let’s talk about Java, JDBC, Servlets, JSP, Spring Boot, Hibernate & MySQL  <br>⚡ Fun fact: When I’m not coding, I capture stories through photography & create visuals with video editing
 
 
 ## 🌐 Socials:
